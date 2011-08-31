@@ -3,9 +3,9 @@
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyCompany("Mars Systems")]
+[assembly: AssemblyCompany("WebcamCapture.NET http://webcamcapture.net/")]
 [assembly: AssemblyProduct("WebcamCapture.NET")]
-[assembly: AssemblyCopyright("Copyright ©  Mars Systems 2011")]
+[assembly: AssemblyCopyright("Copyright © WebcamCapture.NET 2011")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
